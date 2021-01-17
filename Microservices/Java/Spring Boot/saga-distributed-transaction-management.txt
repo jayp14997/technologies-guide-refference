@@ -1,0 +1,8 @@
+Distributed Transaction Management With Saga Pattern
+---------------------------------------------------------
+- For distributed Transaction Management we have following 
+options
+
+1) Narayana LRA [https://github.com/eclipse/microprofile-sandbox/tree/master/proposals/0009-LRA]
+2) Eventuate.io [http://eventuate.io/]
+3) Axon framework [http://eventuate.io/]
